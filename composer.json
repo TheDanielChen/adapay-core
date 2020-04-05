@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Adapay\\AdaPay\\": "src/"
+            "Cstopery\\AdaPay\\": "src/"
         }
     }
 }
