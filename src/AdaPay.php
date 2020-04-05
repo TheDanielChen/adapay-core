@@ -3,6 +3,7 @@ namespace Cstopery\AdaPay;
 
 use Cstopery\AdaPay\AdaRequests;
 use Cstopery\AdaPay\AdaTools;
+include_once "AdaLoader.php";
 
 class AdaPay
 {
