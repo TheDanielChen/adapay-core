@@ -1,6 +1,9 @@
 <?php
 namespace Cstopery\AdaPay;
 
+use Cstopery\AdaPay\AdaRequests;
+use Cstopery\AdaPay\AdaTools;
+
 class AdaPay
 {
 
