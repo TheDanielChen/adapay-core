@@ -1,5 +1,5 @@
 <?php
-namespace AdaPay\AdaPay;
+namespace Cstopery\AdaPay;
 
 class AdaTools
 {

@@ -1,5 +1,5 @@
 <?php
-namespace AdaPay\AdaPay;
+namespace Cstopery\AdaPay;
 use Workerman\Worker;
 use Workerman\Mqtt\Client;
 
